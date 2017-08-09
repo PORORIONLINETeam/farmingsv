@@ -8,13 +8,13 @@ TSMine:
 TSProtectChest:
   172.110.16.142: 파밍온라인-pororipodo
 TSSmartShop:
-  121.78.158.237: 파밍온라인-pororipodo
+  172.110.16.142: 파밍온라인-pororipodo
 TSTimeToBanCommands:
   121.78.158.237: 파밍온라인-pororipodo
 TSTutorial:
   121.78.158.237: 파밍온라인-pororipodo
 TSServerManager:
-  121.78.158.237: 파밍온라인-pororipodo
+  172.110.16.142: 파밍온라인-pororipodo
 PR_Guide:
   121.78.158.237: 파밍온라인-pororipodo
 Competition:
